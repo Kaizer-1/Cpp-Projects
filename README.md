@@ -1,5 +1,5 @@
 # Cpp-Projects
-Some C++ projects I made. 
+Some small C++ projects I made. 
 <br>
 cipher.cpp encrypts and decrypts the message you want to send.
 <br>
